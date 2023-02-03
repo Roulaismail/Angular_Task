@@ -1,0 +1,31 @@
+.container{
+    background-image: url('../../../assets/images/6.png') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:35%;
+    margin-top: 5%;
+    border-top: 3px solid #b40024;
+    border-bottom: 3px solid #b40024;
+    
+    padding: 2%;
+    
+
+}
+button{
+    width: 100px;
+}
+input{
+    border-left:3px solid #b40024;
+    border-right:3px solid #b40024;
+    border-radius: 0%;
+}
+img{
+    width: 25%;
+    height: 25%;
+}
+label,h1,button{
+    font-weight: bold;
+}
+.row1,.row3{
+    text-align: center;
+}
